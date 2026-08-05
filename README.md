@@ -132,6 +132,19 @@ python Python/sales_analysis.py
 ```
 
 ---
+## 📸 Project Output
+
+### Category Wise Sales
+
+![Category Sales](Images/category_sales.png)
+
+### Region Wise Sales
+
+![Region Sales](Images/region_sales.png)
+
+### Sales Distribution
+
+![Sales Distribution](Images/sales_distribution.png)
 
 ## 🚀 Future Improvements
 
